@@ -11,10 +11,10 @@
 #define N_C 4	// maximum conditional number 
 #define Length 1024		//source length
 
-const char path_source_file[] = "..\\Markov_source.txt";
-const char path_side_information_file[] = "..\\Markov_source_si.txt";
-const char path_code_word[] = "..\\code_word";
-const char path_output_file[] = "..\\output.txt";
+const char path_source_file[] = "Markov_source.txt";
+const char path_side_information_file[] = "Markov_source_si.txt";
+const char path_code_word[] = "code_word";
+const char path_output_file[] = "output.txt";
 
 char* input;		//source
 char* SI;			//side information 
