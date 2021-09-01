@@ -1,4 +1,7 @@
 # SPDCAC
-aaaattttmooos
-source_file:Markov_source.txt
-side_information_file:Markov_source_si.txt
+
+This is the code to implement Source Symbol Purging-based Distributed Conditional Arithmetic Coding(SPDCAC)
+
+source input: Markov_source.txt
+
+side information input: Markov_source_si.txt
